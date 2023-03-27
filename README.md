@@ -1,5 +1,3 @@
-
-
 ## Empathetic Dialogue Model - verbal
 #### - To generate an AI agent response based on verbal information in the conversation
 
@@ -22,7 +20,7 @@ The model and usage information is as follows.
 
 1) Run the command below to generate a empathetic response
 ```bash
-    CUDA_VISIBLE_DEVICES='0' python test.py --model_type T5-mean-m
+    python agent.py
 ```
 
 
@@ -35,4 +33,4 @@ The model and usage information is as follows.
 #### Etc
 - The model training parameters (weight values) are saved to the directory below after downloading.
 
-    (./model/T5-mean-m_KETI-AIR_ke-t5-base_default/weights/best.pth)
+    (./model/ke_t5_dm/best.pt)
