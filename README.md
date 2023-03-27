@@ -25,7 +25,7 @@ The model and usage information is as follows.
 
 
 #### Pretrained Language Model
-- KE-T5 base
+- KE-T5 small
 (https://github.com/AIRC-KETI/ke-t5)
 
 
