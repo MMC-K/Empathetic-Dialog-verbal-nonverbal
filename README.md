@@ -1,5 +1,5 @@
 ## Empathetic Dialogue Model - verbal & non-verbal
-#### - To generate an AI agent non-verbal response based on verbal response in the conversation
+#### - To generate an AI agent non-verbal response based on a verbal response in the conversation
 
 
 ----------------------------------
@@ -20,7 +20,7 @@ The model and usage information is as follows.
     python get_weight.py
 ```
 
-1) Run the command below to generate a empathetic response
+1) Run the command below to generate an empathetic response
 ```bash
     python agent.py
 ```
@@ -28,7 +28,7 @@ The model and usage information is as follows.
 
 #### Pretrained Language Model
 - long-KE-T5
-([https://github.com/AIRC-KETI/ke-t5](https://github.com/AIRC-KETI/long-ke-t5))
+(https://github.com/AIRC-KETI/long-ke-t5)
 
 
 
