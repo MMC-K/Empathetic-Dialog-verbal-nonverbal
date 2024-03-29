@@ -1,12 +1,14 @@
-## Empathetic Dialogue Model - verbal
-#### - To generate an AI agent response based on verbal information in the conversation
+## Empathetic Dialogue Model - verbal & non-verbal
+#### - To generate an AI agent non-verbal response based on verbal response in the conversation
 
 
 ----------------------------------
 
 ## Empathetic Response Generation
 
-The model is built on KE-T5, a pre-trained language model, and fine-tuned using AI-HUB's empathy conversation dataset, KETI conversation dataset, and more.
+The model is built on long-KE-T5, a pre-trained language model, and fine-tuned using KETI conversation dataset.
+
+The model will be updated occasionally.
 
 The model and usage information is as follows.
 
@@ -25,8 +27,8 @@ The model and usage information is as follows.
 
 
 #### Pretrained Language Model
-- KE-T5 small
-(https://github.com/AIRC-KETI/ke-t5)
+- long-KE-T5
+([https://github.com/AIRC-KETI/ke-t5](https://github.com/AIRC-KETI/long-ke-t5))
 
 
 
